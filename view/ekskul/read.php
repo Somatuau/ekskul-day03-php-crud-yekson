@@ -27,7 +27,7 @@
                     <h3>Read <span class="fw-bold"><i class="fa-solid fa-graduation-cap"></i> Siswa</span></h3>
 
                     <div>
-                        <a href="siswa-create.html" class="btn btn-primary"><i class="fa-solid fa-plus-square me-1"></i> Create</a>
+                        <a href="?menu=ekskul&page=create" class="btn btn-primary"><i class="fa-solid fa-plus-square me-1"></i> Create</a>
                     </div>
 
                 </div>
@@ -36,7 +36,6 @@
 
                     
 
-                    <hr>
 
                     <table class="table table-bordered">
                         <thead>
